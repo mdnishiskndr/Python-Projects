@@ -4,8 +4,10 @@ Projects:
 
    Overview:
 
+   The "Guess The Number" game starts by prompting the user to input a maximum range for the guessing number. The program handles input validation to ensure the user        provides a positive integer. If the input is valid, the program generates a random number within the specified range. The user then attempts to guess the random          number, with the program providing feedback on whether each guess is too high or too low. The guessing continues until the user correctly guesses the number, at which    point the program announces the correct guess and displays the total number of guesses made.
 
-2. Turtle Race Simulation
+
+3. Turtle Race Simulation
 
    Overview:
 
